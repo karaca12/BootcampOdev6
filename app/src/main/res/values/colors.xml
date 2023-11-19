@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bottom_background">#141414</color>
+    <color name="show_all">#FF868686</color>
+    <color name="game_type_1">#008646</color>
+    <color name="game_type_2">#008471</color>
+    <color name="game_type_3">#007C8E</color>
+    <color name="game_type_4">#007098</color>
+    <color name="search_background">#444444</color>
+</resources>
